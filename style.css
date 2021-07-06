@@ -1,7 +1,6 @@
 body{
     font-family: 'Source Sans Pro', sans-serif;
     margin: 0;
-    padding: 5px;
 }
 h1{
     font-size: 45px;
@@ -98,7 +97,6 @@ recepie{
 }
 .last{
     background-color: black;
-    margin-top: 10px;
     width: 100%;
 
 }
